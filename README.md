@@ -1,17 +1,3 @@
-## 1. 源码学习
-|  |
-| :---- |
-| [2018-08-29 io.Pipe源码学习](./reading/201808/2018-08-29-pipe-in-go.md)|
-
-## 2. 个人dev tools总结
-
-|  |
-| :---- |
-| [2018-08-29 go里的mock测试方法](./dev-tools/201808/2018-08-29-mock-test-in-go.md)|
-| [2018-08-29 go中打印http request](./dev-tools/201808/2018-08-29-print-http-body-in-go.md)|
-
-
-## 3. 算法分析
-
-
-## 4. 个人总结
+用 issue 来管理个人blog
+add me on wechat
+![image](https://user-images.githubusercontent.com/7421004/58297115-15f9ab00-7e09-11e9-902b-0b57794ff327.png)
