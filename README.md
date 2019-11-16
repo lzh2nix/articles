@@ -14,6 +14,7 @@
   - 一周一数据结构
 - 其他总结
    - [wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
+   - [在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
 - 一书一世界
 
 - 我思我想
