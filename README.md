@@ -1,4 +1,4 @@
-- 源码学习
+- 源码分析
     - [NSQ源码-nsqlookupd](https://github.com/lzh2nix/articles/issues/6) 
     - [NSQ源码-NSQD](https://github.com/lzh2nix/articles/issues/7)
     - [NSQ源码-Nsq客户端](https://github.com/lzh2nix/articles/issues/8)
