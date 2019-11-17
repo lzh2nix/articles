@@ -17,5 +17,4 @@
    - [wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
    - [在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
 - 一书一世界
-
-- 我思我想
+   - [贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
