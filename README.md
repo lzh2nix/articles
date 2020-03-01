@@ -15,6 +15,7 @@
   - 一周一数据结构
 - Kubernetes 实战之路
   - [搭建本地k8s环境](https://github.com/lzh2nix/articles/issues/21)
+  - [k8s核心概念](https://github.com/lzh2nix/articles/issues/22)
 - 其他总结
    - [wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
    - [在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
