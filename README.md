@@ -19,5 +19,6 @@
 - 其他总结
    - [001 wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
    - [002 在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
+   - [003 深入理解pod](https://github.com/lzh2nix/articles/issues/23)
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
