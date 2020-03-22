@@ -11,8 +11,9 @@
     - [010 nsqd中Message Delivery Guarantees的实现](https://github.com/lzh2nix/articles/issues/18)
 - 数据库
 
-- 算法数据结构
-  - 一周一数据结构
+- 一周一数据结构
+- golang 一周一package
+  - [io package](https://github.com/lzh2nix/articles/issues/24)
 - Kubernetes 实战之路
   - [001 搭建本地k8s环境](https://github.com/lzh2nix/articles/issues/21)
   - [002 k8s核心概念](https://github.com/lzh2nix/articles/issues/22)
