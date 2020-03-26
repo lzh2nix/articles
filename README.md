@@ -14,6 +14,7 @@
 - 一周一数据结构
 - golang 一周一package
   - [io package](https://github.com/lzh2nix/articles/issues/24)
+  - [golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
 - Kubernetes 实战之路
   - [001 搭建本地k8s环境](https://github.com/lzh2nix/articles/issues/21)
   - [002 k8s核心概念](https://github.com/lzh2nix/articles/issues/22)
