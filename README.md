@@ -27,4 +27,5 @@
    - [002 在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
+   - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
 - 我思我想
