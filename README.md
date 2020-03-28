@@ -13,17 +13,18 @@
 
 - 一周一数据结构
 - golang 一周一package
-  - [io package](https://github.com/lzh2nix/articles/issues/24)
-  - [golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
+  - [001 io package](https://github.com/lzh2nix/articles/issues/24)
+  - [002 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
+  - [003 context package](https://github.com/lzh2nix/articles/issues/26)
 - 一周一模式
 - 一周一命令
 - Kubernetes 实战之路
   - [001 搭建本地k8s环境](https://github.com/lzh2nix/articles/issues/21)
   - [002 k8s核心概念](https://github.com/lzh2nix/articles/issues/22)
+  - [003 深入理解pod](https://github.com/lzh2nix/articles/issues/23)
 - 其他总结
    - [001 wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
    - [002 在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
-   - [003 深入理解pod](https://github.com/lzh2nix/articles/issues/23)
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
 - 我思我想
