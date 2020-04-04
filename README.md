@@ -16,6 +16,7 @@
   - [001 io package](https://github.com/lzh2nix/articles/issues/24)
   - [002 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
   - [003 context package](https://github.com/lzh2nix/articles/issues/26)
+  - [004 net package之http client](https://github.com/lzh2nix/articles/issues/28)
 - 一周一模式
 - 一周一命令
 - Kubernetes 实战之路
@@ -28,4 +29,5 @@
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
    - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
+   - [003 思想史:从火到弗洛伊德](https://github.com/lzh2nix/articles/issues/29)
 - 我思我想
