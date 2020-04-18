@@ -17,6 +17,7 @@
   - [002 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
   - [003 context package](https://github.com/lzh2nix/articles/issues/26)
   - [004 net package之http client](https://github.com/lzh2nix/articles/issues/28)
+  - [005 net package之http server](https://github.com/lzh2nix/articles/issues/30)
 - 一周一模式
 - 一周一命令
 - Kubernetes 实战之路
