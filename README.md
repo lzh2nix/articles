@@ -31,4 +31,5 @@
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
    - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
    - [003 思想史:从火到弗洛伊德](https://github.com/lzh2nix/articles/issues/29)
+   - [004 刷新:重新发现商业与未来](https://github.com/lzh2nix/articles/issues/31)
 - 我思我想
