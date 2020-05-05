@@ -18,6 +18,8 @@
   - [003 context package](https://github.com/lzh2nix/articles/issues/26)
   - [004 net package之http client](https://github.com/lzh2nix/articles/issues/28)
   - [005 net package之http server](https://github.com/lzh2nix/articles/issues/30)
+  - [006 sync package](https://github.com/lzh2nix/articles/issues/32)
+
 - 一周一模式
 - 一周一命令
 - Kubernetes 实战之路
@@ -32,4 +34,5 @@
    - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
    - [003 思想史:从火到弗洛伊德](https://github.com/lzh2nix/articles/issues/29)
    - [004 刷新:重新发现商业与未来](https://github.com/lzh2nix/articles/issues/31)
+   - [005 去规模化:小经济的大机会](https://github.com/lzh2nix/articles/issues/33)
 - 我思我想
