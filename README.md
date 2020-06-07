@@ -31,6 +31,7 @@
    - [002 在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
 - 读书笔记
    - [001 Linux性能优化实战(CPU篇)](https://github.com/lzh2nix/articles/issues/34)
+   - [002 Linux性能优化实战(内存/IO篇)](https://github.com/lzh2nix/articles/issues/35)
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
    - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
