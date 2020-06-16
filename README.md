@@ -32,6 +32,7 @@
 - 读书笔记
    - [001 Linux性能优化实战(CPU篇)](https://github.com/lzh2nix/articles/issues/34)
    - [002 Linux性能优化实战(内存篇)](https://github.com/lzh2nix/articles/issues/35)
+   - [003 Linux性能优化实战(IO篇)](https://github.com/lzh2nix/articles/issues/36)
 - 一书一世界
    - [001 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
    - [002 灭火:美国金融危机及其教训](https://github.com/lzh2nix/articles/issues/27)
