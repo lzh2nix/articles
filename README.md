@@ -25,7 +25,7 @@
   - [0x01 top]()
   - [0x02 pidstat]()
   - [0x03 ps]()
-  - [0x04sar]()
+  - [0x04 sar]()
   - [0x05 free]()
   - [0x06 vmstat]()
   - [0x07 ip]()
