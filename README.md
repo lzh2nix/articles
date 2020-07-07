@@ -22,6 +22,19 @@
 
 - 一周一模式
 - 一周一命令
+  - [0x01 top]()
+  - [0x02 pidstat]()
+  - [0x03 ps]()
+  - [0x04sar]()
+  - [0x05 free]()
+  - [0x06 vmstat]()
+  - [0x07 ip]()
+  - [0x08 ss]()
+  - [0x09 netstat]()
+  - [0x0A iostat]()
+  - [0x0B dstat]()
+  - [0x0C tcpdump]()
+  - [0x0D iptables]()
 - Kubernetes 实战之路
   - [0x01 搭建本地k8s环境](https://github.com/lzh2nix/articles/issues/21)
   - [0x02 k8s核心概念](https://github.com/lzh2nix/articles/issues/22)
