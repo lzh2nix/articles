@@ -50,8 +50,7 @@
    - [0x04 Linux性能优化实战(网络篇)](https://github.com/lzh2nix/articles/issues/37)
    - [0x05 Linux性能优化实战(综合实战篇)](https://github.com/lzh2nix/articles/issues/38)
    - [0x06 6.824 之 mapreduce](https://github.com/lzh2nix/articles/issues/41)
-   - [0x07 6.824 之raft leader election](https://github.com/lzh2nix/articles/issues/40)
-   - [0x08 6.824 之raft log replication](https://github.com/lzh2nix/articles/issues/39)
+   - [0x08 6.824 之raft](https://github.com/lzh2nix/articles/issues/39)
    
 - 一书一世界
    - [0x01 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
