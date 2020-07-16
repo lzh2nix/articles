@@ -20,8 +20,8 @@
   - [0x05 net package之http server](https://github.com/lzh2nix/articles/issues/30)
   - [0x06 sync package](https://github.com/lzh2nix/articles/issues/32)
 - golang 强筋壮骨系列
-  - [0x01 golang 开篇](https://github.com/lzh2nix/articles/issues/57)
-  - [0x02 golang Some basics(初级)](https://github.com/lzh2nix/articles/issues/58)
+  - [0x01 开篇](https://github.com/lzh2nix/articles/issues/57)
+  - [0x02 Some basics(初级)](https://github.com/lzh2nix/articles/issues/58)
 
 - 一周一模式
 - 一周一命令
