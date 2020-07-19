@@ -64,4 +64,11 @@
    - [0x03 思想史:从火到弗洛伊德](https://github.com/lzh2nix/articles/issues/29)
    - [0x04 刷新:重新发现商业与未来](https://github.com/lzh2nix/articles/issues/31)
    - [0x05 去规模化:小经济的大机会](https://github.com/lzh2nix/articles/issues/33)
+   - [0x06 我的经验教训[苏世民]](https://github.com/lzh2nix/articles/issues/62)
+   - [0x07 中华帝国的衰落](https://github.com/lzh2nix/articles/issues/61)
+   - [0x08 不妥协的谈判](https://github.com/lzh2nix/articles/issues/63)
+   - [0x09 坚守](https://github.com/lzh2nix/articles/issues/64)
+   - [0x0A 增长黑客](https://github.com/lzh2nix/articles/issues/65)
+   - [0x0B 此地花开](https://github.com/lzh2nix/articles/issues/66)
+   - [0x0C 人人都该懂的启蒙运动](https://github.com/lzh2nix/articles/issues/67)
 - 我思我想
