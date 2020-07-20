@@ -23,6 +23,7 @@
   - [0x01 开篇](https://github.com/lzh2nix/articles/issues/57)
   - [0x02 Start Here(初级)](https://github.com/lzh2nix/articles/issues/58)
   - [0x03 Some basics(初级)](https://github.com/lzh2nix/articles/issues/59)
+  - [0x04 Organization and Style(初级)](https://github.com/lzh2nix/articles/issues/68)
 
 - 一周一模式
 - 一周一命令
