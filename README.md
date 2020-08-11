@@ -60,8 +60,7 @@
    - [0x05 Linux性能优化实战(综合实战篇)](https://github.com/lzh2nix/articles/issues/38)
    - [0x06 6.824 之 mapreduce](https://github.com/lzh2nix/articles/issues/41)
    - [0x07 6.824 之raft](https://github.com/lzh2nix/articles/issues/39)
-   - [0x08 Linux性能优化实战 内存篇总结](https://github.com/lzh2nix/articles/issues/60)
-   - [0x09  Linux性能优化实战 之IO篇总结](https://github.com/lzh2nix/articles/issues/69)
+   - [0x08 Linux性能优化实战(总结篇)](https://github.com/lzh2nix/articles/issues/73)
    
 - 一书一世界
    - [0x01 贫穷的本质](https://github.com/lzh2nix/articles/issues/19)
