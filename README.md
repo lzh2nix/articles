@@ -27,6 +27,8 @@
   - [0x05 Web(初级)](https://github.com/lzh2nix/articles/issues/70)
   - [0x06 Concurrency(初级)](https://github.com/lzh2nix/articles/issues/71)
   - [0x07 Code Design(中级)](https://github.com/lzh2nix/articles/issues/72)
+  - [0x08 Concurrency(中级)](https://github.com/lzh2nix/articles/issues/74)
+
 
 - 一周一模式
 - 一周一命令
