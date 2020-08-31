@@ -32,6 +32,7 @@
   - [0x0A Web(中级)](https://github.com/lzh2nix/articles/issues/76)
   - [0x0B Tools/Diagnostics(中级)](https://github.com/lzh2nix/articles/issues/77)
   - [0x0C Language(中级)](https://github.com/lzh2nix/articles/issues/78)
+  - [0x0D Miscellaneous(中级)](https://github.com/lzh2nix/articles/issues/79)
 
 
 - 一周一模式
