@@ -34,7 +34,7 @@
   - [0x0C Language(中级)](https://github.com/lzh2nix/articles/issues/78)
   - [0x0D Miscellaneous(中级)](https://github.com/lzh2nix/articles/issues/79)
   - [0x0E Low Level Concerns(高级)](https://github.com/lzh2nix/articles/issues/80)
-  - [0x0F Performance(高级)](https://github.com/lzh2nix/articles/issues/80)
+  - [0x0F Performance(高级)](https://github.com/lzh2nix/articles/issues/81)
 
 - 一周一模式
 - 一周一命令
