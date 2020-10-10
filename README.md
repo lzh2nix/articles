@@ -19,6 +19,7 @@
   - [0x04 net package之http client](https://github.com/lzh2nix/articles/issues/28)
   - [0x05 net package之http server](https://github.com/lzh2nix/articles/issues/30)
   - [0x06 sync package](https://github.com/lzh2nix/articles/issues/32)
+  - [0x07 groupcache](https://github.com/lzh2nix/articles/issues/86)
 - golang 强筋壮骨系列
   - [0x01 开篇](https://github.com/lzh2nix/articles/issues/57)
   - [0x02 Start Here(初级)](https://github.com/lzh2nix/articles/issues/58)
