@@ -12,6 +12,7 @@
 - 数据库
 
 - 一周一数据结构
+  - [0x01 缘起](https://github.com/lzh2nix/articles/issues/88)
 - golang 一周一package
   - [0x01 io package](https://github.com/lzh2nix/articles/issues/24)
   - [0x02 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
