@@ -9,10 +9,6 @@
     - [0x08 EMQ中的keepalive实现](https://github.com/lzh2nix/articles/issues/10)
     - [0x09 mqtt 简介以及paho client 的实现方式](https://github.com/lzh2nix/articles/issues/16)
     - [0x0A nsqd中Message Delivery Guarantees的实现](https://github.com/lzh2nix/articles/issues/18)
-- 数据库
-
-- 一周一数据结构
-  - [0x01 缘起](https://github.com/lzh2nix/articles/issues/88)
 - golang 一周一package
   - [0x01 io package](https://github.com/lzh2nix/articles/issues/24)
   - [0x02 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
@@ -41,6 +37,12 @@
   - [0x10 Garbage Collection(高级)](https://github.com/lzh2nix/articles/issues/82)
   - [0x11 Concurrency(高级)](https://github.com/lzh2nix/articles/issues/83)
   - [0x12 完结](https://github.com/lzh2nix/articles/issues/85)
+- golang 专家编程
+  - [0x01 第一章](https://github.com/lzh2nix/articles/issues/102)
+- 数据库
+
+- 一周一数据结构
+  - [0x01 缘起](https://github.com/lzh2nix/articles/issues/88)
 
 - 一周一模式
   - [0x01 开篇](https://github.com/lzh2nix/articles/issues/84)
