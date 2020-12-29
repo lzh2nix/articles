@@ -38,7 +38,7 @@
   - [0x11 Concurrency(高级)](https://github.com/lzh2nix/articles/issues/83)
   - [0x12 完结](https://github.com/lzh2nix/articles/issues/85)
 - golang 专家编程
-  - [0x01 第一章](https://github.com/lzh2nix/articles/issues/102)
+  - [0x01 第一章常见数据结构实现原理](https://github.com/lzh2nix/articles/issues/102)
 - 数据库
 
 - 一周一数据结构
