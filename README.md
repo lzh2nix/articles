@@ -105,4 +105,8 @@
    - [0x17 孔子](https://github.com/lzh2nix/articles/issues/99)
    - [0x18 极简经济学](https://github.com/lzh2nix/articles/issues/100)
    - [0x19 经济学通识课](https://github.com/lzh2nix/articles/issues/101)
+   - [0x1A 一网打尽](https://github.com/lzh2nix/articles/issues/103)
+   - [0x1B 重构近代中国](https://github.com/lzh2nix/articles/issues/104)
+
+
 - 我思我想
