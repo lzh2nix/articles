@@ -108,6 +108,13 @@
    - [0x19 经济学通识课](https://github.com/lzh2nix/articles/issues/101)
    - [0x1A 一网打尽](https://github.com/lzh2nix/articles/issues/103)
    - [0x1B 重构近代中国](https://github.com/lzh2nix/articles/issues/104)
+   - [0x1C 皇帝的新脑](https://github.com/lzh2nix/articles/issues/106)
+   - [0x1D 佛学概论](https://github.com/lzh2nix/articles/issues/107)
+   - [0x1E 民主四讲](https://github.com/lzh2nix/articles/issues/108)
+   - [0x1F 精要主义](https://github.com/lzh2nix/articles/issues/109)
+   - [0x20 Getting Real](https://github.com/lzh2nix/articles/issues/110)
+   - [0x21  坛经释义](https://github.com/lzh2nix/articles/issues/111)
+
 
 
 - 我思我想
