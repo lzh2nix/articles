@@ -39,8 +39,13 @@
   - [0x10 Garbage Collection(高级)](https://github.com/lzh2nix/articles/issues/82)
   - [0x11 Concurrency(高级)](https://github.com/lzh2nix/articles/issues/83)
   - [0x12 完结](https://github.com/lzh2nix/articles/issues/85)
-- golang 专家编程
-  - [0x01 第一章常见数据结构实现原理](https://github.com/lzh2nix/articles/issues/102)
+- 深入理解golang 
+  - [0x01 缘起](https://github.com/lzh2nix/articles/issues/102#issue-774964885)
+  - [0x02 chan](https://github.com/lzh2nix/articles/issues/102#issuecomment-751418724)
+  - [0x03 slice](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571555)
+  - [0x04 map](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571622)
+  - [0x05 struct](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571632)
+  - [0x06 string](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571647)
 - 数据库
 
 - 一周一数据结构
