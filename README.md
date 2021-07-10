@@ -47,6 +47,7 @@
   - [0x05 struct](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571632)
   - [0x06 string](https://github.com/lzh2nix/articles/issues/102#issuecomment-753571647)
   - [0x07 defer](https://github.com/lzh2nix/articles/issues/119)
+  - [0x08 reflect](https://github.com/lzh2nix/articles/issues/120)
 - 数据库
 
 - 一周一数据结构
