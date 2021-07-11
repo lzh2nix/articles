@@ -126,7 +126,10 @@
    - [0x1E 民主四讲](https://github.com/lzh2nix/articles/issues/108)
    - [0x1F 精要主义](https://github.com/lzh2nix/articles/issues/109)
    - [0x20 Getting Real](https://github.com/lzh2nix/articles/issues/110)
-   - [0x21  坛经释义](https://github.com/lzh2nix/articles/issues/111)
+   - [0x21 坛经释义](https://github.com/lzh2nix/articles/issues/111)
+   - [0x22 炸裂志](https://github.com/lzh2nix/articles/issues/122)
+   - [0x23 硅谷百年史](https://github.com/lzh2nix/articles/issues/123)
+   - [0x24 孩子:挑战](https://github.com/lzh2nix/articles/issues/124)
 
 
 
