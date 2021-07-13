@@ -81,6 +81,7 @@
 - 其他总结
    - [0x01 wireshark 分析TCP哪些事儿](https://github.com/lzh2nix/articles/issues/11)
    - [0x02 在Go中友好的打印http的request](https://github.com/lzh2nix/articles/issues/17)
+   - [0x03 使用multipass在本地快速构建虚拟化环境](https://github.com/lzh2nix/articles/issues/125)
 - 读书笔记
    - [0x01 Linux性能优化实战(CPU篇)](https://github.com/lzh2nix/articles/issues/34)
    - [0x02 Linux性能优化实战(内存篇)](https://github.com/lzh2nix/articles/issues/35)
