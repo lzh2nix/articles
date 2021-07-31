@@ -56,6 +56,7 @@
 
 - 一周一模式
   - [0x01 开篇](https://github.com/lzh2nix/articles/issues/84)
+  - [0x02 观察者模式](https://github.com/lzh2nix/articles/issues/126)
 
 - 一周一命令
   - [0x01 top](https://github.com/lzh2nix/articles/issues/42)
