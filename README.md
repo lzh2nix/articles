@@ -133,6 +133,10 @@
    - [0x22 炸裂志](https://github.com/lzh2nix/articles/issues/122)
    - [0x23 硅谷百年史](https://github.com/lzh2nix/articles/issues/123)
    - [0x24 孩子:挑战](https://github.com/lzh2nix/articles/issues/124)
+   - [0x25 紫禁城的荣光:明清全史](https://github.com/lzh2nix/articles/issues/128)
+   - [0x26 1840年以来的中国](https://github.com/lzh2nix/articles/issues/129)
+   - [0x27 鸦片战争](https://github.com/lzh2nix/articles/issues/130)
+   - [0x28 How Google Works](https://github.com/lzh2nix/articles/issues/131)
 
 
 
