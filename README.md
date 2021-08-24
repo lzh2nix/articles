@@ -59,7 +59,8 @@
   - [0x02 观察者模式](https://github.com/lzh2nix/articles/issues/126)
   - [0x03 装饰器模式](https://github.com/lzh2nix/articles/issues/127)
   - [0x04 工厂方法](https://github.com/lzh2nix/articles/issues/132)
-
+  - [0x05 单里模式](https://github.com/lzh2nix/articles/issues/133)
+  
 - 一周一命令
   - [0x01 top](https://github.com/lzh2nix/articles/issues/42)
   - [0x02 pidstat](https://github.com/lzh2nix/articles/issues/43)
