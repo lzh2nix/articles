@@ -12,6 +12,7 @@
     - [0x0B redis基本数据结构](https://github.com/lzh2nix/articles/issues/117)
     - [0x0C redis启动大流程](https://github.com/lzh2nix/articles/issues/118)
     - [0x0D redis 5.0 socket事件处理框架](https://github.com/lzh2nix/articles/issues/118)
+    - [0x0E 一条redis命令的处理流程](https://github.com/lzh2nix/articles/issues/138)
 - golang 一周一package
   - [0x01 io package](https://github.com/lzh2nix/articles/issues/24)
   - [0x02 golang 中各种io花式读写方法](https://github.com/lzh2nix/articles/issues/25)
