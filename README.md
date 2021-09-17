@@ -65,6 +65,7 @@
   - [0x06 命令行模式](https://github.com/lzh2nix/articles/issues/134)
   - [0x07 适配器/外观模式](https://github.com/lzh2nix/articles/issues/135)
   - [0x08 模板方法模式](https://github.com/lzh2nix/articles/issues/137)
+  - [0x09 迭代器模式](https://github.com/lzh2nix/articles/issues/139)
   
 - 一周一命令
   - [0x01 top](https://github.com/lzh2nix/articles/issues/42)
