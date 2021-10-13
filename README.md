@@ -70,6 +70,7 @@
   - [0x09 迭代器模式](https://github.com/lzh2nix/articles/issues/139)
   - [0x0A 组合模式](https://github.com/lzh2nix/articles/issues/140)
   - [0x0B 状态机模式](https://github.com/lzh2nix/articles/issues/142)
+  - [0x0C 代理模式](https://github.com/lzh2nix/articles/issues/144)
   
 - 一周一命令
   - [0x01 top](https://github.com/lzh2nix/articles/issues/42)
