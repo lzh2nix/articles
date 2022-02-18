@@ -106,6 +106,7 @@
    - [0x05 Linux性能优化实战(综合实战篇)](https://github.com/lzh2nix/articles/issues/38)
    - [0x08 Linux性能优化实战(总结篇)](https://github.com/lzh2nix/articles/issues/73)
    - [0x09 再看<<性能之巅>>](https://github.com/lzh2nix/articles/issues/116)
+   - [0x0A 老许的架构课](https://github.com/lzh2nix/articles/issues/146)
 - 分布式系统
    - [0x01 6.824 之 mapreduce](https://github.com/lzh2nix/articles/issues/41)
    - [0x02 6.824 之raft](https://github.com/lzh2nix/articles/issues/39)
