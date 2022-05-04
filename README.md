@@ -152,6 +152,7 @@
    - [0x26 1840年以来的中国](https://github.com/lzh2nix/articles/issues/129)
    - [0x27 鸦片战争](https://github.com/lzh2nix/articles/issues/130)
    - [0x28 How Google Works](https://github.com/lzh2nix/articles/issues/131)
+   - [0x29 程序员修炼之道:从小工到专家](https://github.com/lzh2nix/articles/issues/147)
 
 
 
