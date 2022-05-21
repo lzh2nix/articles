@@ -153,7 +153,7 @@
    - [0x27 鸦片战争](https://github.com/lzh2nix/articles/issues/130)
    - [0x28 How Google Works](https://github.com/lzh2nix/articles/issues/131)
    - [0x29 程序员修炼之道:从小工到专家](https://github.com/lzh2nix/articles/issues/147)
-
+   - [0x2A SRE:Google 运维揭秘](https://github.com/lzh2nix/articles/issues/148)
 
 
 - 我思我想
