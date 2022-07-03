@@ -154,6 +154,7 @@
    - [0x28 How Google Works](https://github.com/lzh2nix/articles/issues/131)
    - [0x29 程序员修炼之道:从小工到专家](https://github.com/lzh2nix/articles/issues/147)
    - [0x2A SRE:Google 运维揭秘](https://github.com/lzh2nix/articles/issues/148)
+   - [0x2B Linux Observability With BPF](https://github.com/lzh2nix/articles/issues/149)
 
 
 - 我思我想
