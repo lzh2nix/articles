@@ -50,6 +50,7 @@
   - [0x10 Garbage Collection(高级)](https://github.com/lzh2nix/articles/issues/82)
   - [0x11 Concurrency(高级)](https://github.com/lzh2nix/articles/issues/83)
   - [0x12 完结](https://github.com/lzh2nix/articles/issues/85)
+  - [0x13 go.dev/doc 阅读笔记](https://github.com/lzh2nix/articles/issues/159)
 - 深入理解golang 
   - [0x01 缘起](https://github.com/lzh2nix/articles/issues/102#issue-774964885)
   - [0x02 chan](https://github.com/lzh2nix/articles/issues/102#issuecomment-751418724)
