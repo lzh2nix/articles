@@ -8,6 +8,7 @@
 - [0x07 老许的架构课](https://github.com/lzh2nix/articles/issues/146)
 - [0x08 cloudflare 技术博客阅读计划](https://github.com/lzh2nix/articles/issues/163)
 - [0x09 prometheus系列](https://github.com/lzh2nix/articles/labels/prometheus%E7%B3%BB%E5%88%97)
+- [0x10 ebpf之路(2023版本)](https://github.com/lzh2nix/articles/issues/169)
 ### 我读
 - [0x01 一个人的阅读史(2023)](https://github.com/lzh2nix/articles/issues/162)
 ### 我思我想
