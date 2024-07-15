@@ -10,7 +10,10 @@
 - [0x09 prometheus系列](https://github.com/lzh2nix/articles/labels/prometheus%E7%B3%BB%E5%88%97)
 - [0x0A ebpf之路(2023版本)](https://github.com/lzh2nix/articles/issues/169)
 - [0x0B 再读 Google SRE 运维揭秘](https://github.com/lzh2nix/articles/issues/170)
+- [0x0C 一周一package(2024版)](https://github.com/lzh2nix/articles/issues/172)
 ### 我读
 - [0x01 一个人的阅读史(2023)](https://github.com/lzh2nix/articles/issues/162)
 - [0x02 一个人的阅读史(2024)](https://github.com/lzh2nix/articles/issues/171)
-### 我思我想
+### 我思
+
+### 我想
