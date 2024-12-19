@@ -15,4 +15,4 @@
 - [0x01 一个人的阅读史(2023)](https://github.com/lzh2nix/articles/issues/162)
 - [0x02 一个人的阅读史(2024)](https://github.com/lzh2nix/articles/issues/171)
 ### 我思我想
-- [当我跑步时在想些什么(v2024)](https://github.com/lzh2nix/articles/issues/173)
+- [0x01 当我跑步时在想些什么(v2024)](https://github.com/lzh2nix/articles/issues/173)
