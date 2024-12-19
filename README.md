@@ -17,4 +17,4 @@
 ### 我思
 
 ### 我想
-[当我跑步时在想些什么(v2024)](https://github.com/lzh2nix/articles/issues/173)
+- [当我跑步时在想些什么(v2024)](https://github.com/lzh2nix/articles/issues/173)
