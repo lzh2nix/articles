@@ -18,4 +18,4 @@
 - [0x0A ebpf之路(2023版本)](https://github.com/lzh2nix/articles/issues/169)
 - [0x0B 再读 Google SRE 运维揭秘](https://github.com/lzh2nix/articles/issues/170)
 - [0x0C 一周一package(2024版)](https://github.com/lzh2nix/articles/issues/172)
-
+- [0x0D AI之路(2025版)](https://github.com/lzh2nix/articles/issues/177)
