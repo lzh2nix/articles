@@ -1,11 +1,13 @@
 ### 我读
-- [0x03 一个人的阅读史(v2025)](https://github.com/lzh2nix/articles/issues/174)
-- [0x02 一个人的阅读史(v2024)](https://github.com/lzh2nix/articles/issues/171)
 - [0x01 一个人的阅读史(v2023)](https://github.com/lzh2nix/articles/issues/162)
-
+- [0x02 一个人的阅读史(v2024)](https://github.com/lzh2nix/articles/issues/171)
+- [0x03 一个人的阅读史(v2025)](https://github.com/lzh2nix/articles/issues/174)
+- [0x04 一个人的阅读史(v2026)](https://github.com/lzh2nix/articles/issues/180)
 ### 我思我想
-- [0x02 当我跑步时在想些什么(v2025)](https://github.com/lzh2nix/articles/issues/175)
 - [0x01 当我跑步时在想些什么(v2024)](https://github.com/lzh2nix/articles/issues/173)
+- [0x02 当我跑步时在想些什么(v2025)](https://github.com/lzh2nix/articles/issues/175)
+- [0x03 当我跑步时在想些什么(v2026)](https://github.com/lzh2nix/articles/issues/179)
+
 ### 技术人生
 - [0x0D AI之路(2025版)](https://github.com/lzh2nix/articles/issues/177)
 - [0x0C 一周一package(2024版)](https://github.com/lzh2nix/articles/issues/172)
