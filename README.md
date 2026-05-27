@@ -1,7 +1,6 @@
 ### 置顶
 - [0x01 人生 3 条](https://github.com/lzh2nix/articles/issues/181)
-- [0x02 CS146S: The Modern Software Developer](https://github.com/lzh2nix/articles/issues/182)
-- [0x03 日有所思](https://github.com/lzh2nix/articles/issues/183)
+- [0x02 日有所思](https://github.com/lzh2nix/articles/issues/183)
 ### 我读
 - [0x01 一个人的阅读史(v2023)](https://github.com/lzh2nix/articles/issues/162)
 - [0x02 一个人的阅读史(v2024)](https://github.com/lzh2nix/articles/issues/171)
@@ -13,6 +12,7 @@
 - [0x03 当我跑步时在想些什么(v2026)](https://github.com/lzh2nix/articles/issues/179)
 
 ### 技术人生
+- [0x0E CS146S: The Modern Software Developer](https://github.com/lzh2nix/articles/issues/182)
 - [0x0D AI之路(2025版)](https://github.com/lzh2nix/articles/issues/177)
 - [0x0C 一周一package(2024版)](https://github.com/lzh2nix/articles/issues/172)
 - [0x0B 再读 Google SRE 运维揭秘](https://github.com/lzh2nix/articles/issues/170)
